@@ -1,4 +1,4 @@
-Mozilla Public License Version 2.0
+5494d7acadc7e5ce8757656b431972312734fccfgit remote -v > origin https://github.com/YOUR USERNAME/YOUR-FORK.git (fetch) > origin https://github.com/YOUR- USERNAME/YOUR-FORK.git (push) esc
 ==================================
 
 1. Definitions
@@ -26,12 +26,13 @@ Mozilla Public License Version 2.0
 
     (a) that the initial Contributor has attached the notice described
         in Exhibit B to the Covered Software; or
-
-    (b) that the Covered Software was made available under the terms of
+git remote add upstream https://github.com/ORIGINAL- OWNER/ORIGINAL-REPOSITORY. git
+ (b) that the Covered Software was made available under the terms of
         version 1.1 or earlier of the License, but not also under the
         terms of a Secondary License.
+$ git remote -v > origin esc https://github.com/YOUR USERNAME/YOUR-FORK.git (fetch) > origin https://github.com/YOUR- USERNAME/YOUR-FORK.git (push)esc 
 
-1.6. "Executable Form"
+tab 1.6. "Executable Form"
     means any form of the work other than Source Code Form.
 
 1.7. "Larger Work"
